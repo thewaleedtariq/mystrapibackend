@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_product_sizes",
+  "info": {
+    "displayName": "size",
+    "icon": "attachment",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "sizess": {
+      "type": "enumeration",
+      "enum": [
+        "Small",
+        "Medium",
+        "Large"
+      ]
+    }
+  }
+}

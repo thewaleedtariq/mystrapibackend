@@ -1,0 +1,46 @@
+{
+  "collectionName": "components_product_seo_metadata",
+  "info": {
+    "displayName": "seo-metadata",
+    "icon": "chartCircle",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    },
+    "metaImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "metaDescription": {
+      "type": "string"
+    },
+    "keywords": {
+      "type": "string"
+    },
+    "openGraphTitle": {
+      "type": "string"
+    },
+    "openGraphDescription": {
+      "type": "string"
+    },
+    "openGraphImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
