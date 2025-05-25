@@ -10,9 +10,9 @@
     "sizess": {
       "type": "enumeration",
       "enum": [
-        "Small",
-        "Medium",
-        "Large"
+        "s41",
+        "s42",
+        "s43"
       ]
     }
   }

@@ -32,7 +32,7 @@ export interface ProductSize extends Struct.ComponentSchema {
     icon: 'attachment';
   };
   attributes: {
-    sizess: Schema.Attribute.Enumeration<['Small', 'Medium', 'Large']>;
+    sizess: Schema.Attribute.Enumeration<['s41', 's42', 's43']>;
   };
 }
 
